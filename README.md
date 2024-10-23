@@ -1,1 +1,1 @@
-![Alt text](https://github.com/sajalsas/Hamming-Code-error-and-detection/blob/3d5cd915cc78927e1a1a622bb20ae0deed308dec/Screenshot%202024-08-09%20184104.png)
+![Alt text](https://github.com/sajalsas/ALU-design/blob/7f8dda47bb5046df407fdc0ed89d758dadfe817e/Screenshot%202024-10-23%20181616.png)
